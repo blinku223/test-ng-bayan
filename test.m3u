@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/1920px-Kapamilya_Online_Live_Logo_2020.svg.png",Kapamilya Online Live
+#EXTINF:-1
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1739130133/ei/tbCoZ_PjEdO12roPlNaGgAI/ip/2001%3A4451%3Ab1b%3A7800%3Acc85%3Ad898%3A605b%3Ae483/id/x_qgWdUGb0s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51357423/txs/51357422%2C51357423%2C51357424/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/bui/AUWDL3xdZMvSJadO8-OOFkzbUU2tfmQCjSjX3k-L47pVis_jMyv1Vjizc2QNqsL_esZXwsG4NOpw-upe/spc/RjZbSXu-lwwqHOm2vaI6Hj8D_UaLfbyAPFPJrDERxvLLMGb9wIv1i8wVaFRAaDcO-rmzWTQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIga61oGx4aQQ4k17EEFoSNIFGL-0MTncf8tBjgdcWW3QICIQCaaZx9lrFRavUX0XwgETML8GKcYQq_pBeIZ24nV0biGQ%3D%3D/file/index.m3u8
